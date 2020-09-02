@@ -1,11 +1,12 @@
 # QintarCoin DeFi Ecosystem ☪️ 
 
-DeFi 🕌 
+DeFi 🧕 
 https://defi.qintarcoin.org
 
-🕋 🕋 🕋 🕋 🕋
+☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️
 Contribute NOW!
-🕋 🕋 🕋 🕋 🕋
+☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️
+
 
 Contribution address 🧕:
 0xc98E6B3d06cfBcc2FF1BA572ed460c3ba5c0D2ea
