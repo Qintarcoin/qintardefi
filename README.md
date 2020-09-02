@@ -8,9 +8,10 @@ Contribute NOW!
 ☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️
 
 
-Contribution address 🧕:
+Contribution address:
+🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕
 0xc98E6B3d06cfBcc2FF1BA572ed460c3ba5c0D2ea
-🧕🧕🧕🧕🧕🧕🧕🧕
+🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕
 
 Main:
 https://qintarcoin.org
@@ -19,7 +20,7 @@ Twitter:
 https://twitter.com/qintarDeFi
 
 Telegram:
-https://t.me/qintarcoin
+https://t.me/qintarcoindefi
 
 Discord:
 https://discord.com/invite/nfNtVpy
