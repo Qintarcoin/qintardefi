@@ -1,29 +1,15 @@
-# QintarCoin DeFi Ecosystem ☪️ 
+Qintar Crosschain Ecosystem
 
-DeFi 🧕 
-https://defi.qintarcoin.org
-
-☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️
-Contribute NOW!
-☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️☪️
-
-
-Contribution address:
-🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕
-0xc98E6B3d06cfBcc2FF1BA572ed460c3ba5c0D2ea
-🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕🧕
+First Decentralized Islamic Finance DAPPs built on Polkadot and Moonbeam
 
 Main:
 https://qintarcoin.org
 
 Twitter:
-https://twitter.com/qintarDeFi
+https://twitter.com/QintarFinance
 
 Telegram:
-https://t.me/qintarcoindefi
-
-Discord:
-https://discord.com/invite/nfNtVpy
+https://t.me/qintarfinance
 
 Medium:
 https://medium.com/@qintarcoin
